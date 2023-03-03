@@ -1,0 +1,4 @@
+오늘 블로그 +1
+div / span
+div는 단락 단위, span은 줄 단위
+요즘은 구조 제외하고 div, span 사용 (나머지 CSS)

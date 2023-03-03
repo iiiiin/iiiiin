@@ -1,0 +1,15 @@
+오늘 블로그 +1
+request에서 json을 가져오는 방법이 더 쉽다.
+json : load와 loads의 차이
+json : json과 딕셔너리 차이
+클라이언트와 서버란?
+json : jsondecodeerror
+beautifulsoup : class로 find 불가 class_ 사용
+src 속성?
+request, requests는 다른 것인가?
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+살펴보기
+w3school.com 으로 CSS / HTML 공부하기
+정규표현식 다시보기
+zip
+
