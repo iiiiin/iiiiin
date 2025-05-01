@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm In, a backend developer.
+I'm In, a developer.
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=iiiiin&utm_content=farm">
 <img
