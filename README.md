@@ -2,13 +2,7 @@
 
 I'm In, a developer.
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=iiiiin&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/iiiiin"
-  width="600"
-  height="300"
-/>
-</a>
+
 
 ## Stacks
 
@@ -28,3 +22,12 @@ I'm In, a developer.
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=plastic&logo=velog&logoColor=white)](https://velog.io/@iiiiin)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in-kwon-16258b203/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:in24041210@gmail.com)
+
+---
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=iiiiin&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/iiiiin"
+  width="600"
+  height="300"
+/>
+</a>
