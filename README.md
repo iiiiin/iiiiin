@@ -2,11 +2,10 @@
 
 I'm In, a developer.
 
+## ⚡ Stacks
 
-
-## Stacks
-
-![Javascript](https://img.shields.io/badge/Javascript-%23323330?style=plastic&logo=javascript&logoColor=23F7DF1E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 
 ![Vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
@@ -17,7 +16,7 @@ I'm In, a developer.
 ![Firebase](https://img.shields.io/badge/Firebase-a08021.svg?style=plastic&logo=firebase&logoColor=ffcd34)
 
 
-## Contact
+## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:in24041210@gmail.com)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=plastic&logo=qiita&logoColor=white)](https://qiita.com/iiiiin)
