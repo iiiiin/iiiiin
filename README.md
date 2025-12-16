@@ -8,7 +8,7 @@ I'm In, a developer.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white)
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-42A5F5?style=plastic&logo=flutter&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=plastic&logo=react&logoColor=61DAFB)
