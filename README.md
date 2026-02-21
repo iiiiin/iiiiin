@@ -1,33 +1,44 @@
-## Hi there 👋
+# In
 
-I'm In, a developer.
+Frontend Engineer building cross-platform applications.
 
-## ⚡ Stacks
+## Projects
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white)
-
-![Flutter](https://img.shields.io/badge/Flutter-42A5F5?style=plastic&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=plastic&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
-
-![Googlecloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021.svg?style=plastic&logo=firebase&logoColor=ffcd34)
+- 🐾  **Paw Print** | 반려동물 헬스케어 앱 서비스
+- 💻 [RE:VIEW](https://github.com/iiiiin/review.git) | AI 면접 코칭 웹 서비스
+- 🌳 [코코의 숲](https://github.com/iiiiin/cocos-forest.git) | 소비내역 기반 탄소배출량 추적 앱 서비스
+- 🐢 [거북목 알리미](https://chromewebstore.google.com/detail/dnojahjhfhgblnfggidnhjnjmfeeenmi?utm_source=item-share-cb) | 거북이 모양 알림이 있는 주기별 자세교정 알림 크롬 확장 프로그램
+- 🍔 [배꼽시계](https://chromewebstore.google.com/detail/cickockdphahndbedfjbjalmkoepijag?utm_source=item-share-cb) | 햄버거 이미지 적층식 점심시간 알림 크롬 확장 프로그램
 
 
-## 📫 Contact
+## Tech Stack
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](mailto:in24041210@gmail.com)
-[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=plastic&logo=qiita&logoColor=white)](https://qiita.com/iiiiin)
+#### Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+#### Infra / Deployment
+![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+#### Monitoring / Analytics
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=flat&logo=googleanalytics&logoColor=white)
+
+#### Tools
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
----
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=iiiiin&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/iiiiin"
-  width="600"
-  height="300"
-/>
-</a>
+## Contact
+
+[![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-inkwon.vercel.app/blog)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:in24041210@gmail.com)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/iiiiin)
