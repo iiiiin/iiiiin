@@ -1,6 +1,6 @@
 # In
 
-Frontend Engineer building cross-platform applications.
+Software Engineer building cross-platform applications.
 
 ## Projects
 
