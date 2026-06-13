@@ -42,5 +42,3 @@ Software Engineer building cross-platform applications.
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:in24041210@gmail.com)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/iiiiin)
 
-
-![timeline](https://raw.githubusercontent.com/iiiiin/readme-timeline-test/master/timeline-preview.svg)
