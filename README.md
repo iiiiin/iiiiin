@@ -2,6 +2,8 @@
 
 Software Engineer building cross-platform applications.
 
+![timeline](https://gitail-phi.vercel.app/api/timeline?gist=c24f52e55d1f380e82efef3d12fea681)
+
 ## Projects
 
 - 🐾  **Paw Print** | 반려동물 헬스케어 앱 서비스
