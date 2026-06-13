@@ -2,7 +2,7 @@
 
 Software Engineer building cross-platform applications.
 
-![timeline](https://gitail-phi.vercel.app/api/timeline?gist=c24f52e55d1f380e82efef3d12fea681)
+![timeline](https://gitail-phi.vercel.app/api/timeline?gist=c24f52e55d1f380e82efef3d12fea681&v=2)
 
 ## Projects
 
