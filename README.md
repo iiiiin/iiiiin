@@ -43,4 +43,4 @@ Software Engineer building cross-platform applications.
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/iiiiin)
 
 
-![timeline](https://raw.githubusercontent.com/사용자명/readme-timeline-test/main/timeline-preview.svg)
+![timeline](https://raw.githubusercontent.com/iiiiin/readme-timeline-test/master/timeline-preview.svg)
