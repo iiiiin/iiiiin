@@ -41,3 +41,6 @@ Software Engineer building cross-platform applications.
 [![Blog](https://img.shields.io/badge/Blog-000000?style=flat&logo=vercel&logoColor=white)](https://portfolio-inkwon.vercel.app/blog)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:in24041210@gmail.com)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white)](https://qiita.com/iiiiin)
+
+
+![timeline](https://raw.githubusercontent.com/사용자명/readme-timeline-test/main/timeline-preview.svg)
