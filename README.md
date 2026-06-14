@@ -2,7 +2,7 @@
 
 Software Engineer building cross-platform applications.
 
-![timeline](https://gitail-phi.vercel.app/api/timeline?items=2025-08,react,코코의숲|2025-11,flutter,pawprint|2026-01,chromewebstore,거북목알리미|2026-02,chromewebstore,배꼽시계)
+![timeline](https://gitail-phi.vercel.app/api/timeline?items=2025-08,react,coco's forest|2025-11,flutter,pawprint|2026-01,chromewebstore,turtleneck-reminder|2026-02,chromewebstore,lunch-hourglass)
 
 ## Projects
 
