@@ -4,7 +4,7 @@
 
 ## Projects
 
-![timeline](https://gitail-phi.vercel.app/api/timeline?items=2025-08,react,coco's%20forest|2025-11,flutter,pawprint|2026-01,chromewebstore,turtleneck%20reminder|2026-02,chromewebstore,lunch%20hourglass)
+![timeline](https://gitail-phi.vercel.app/api/timeline?items=2025-08,react,coco's%20forest|2025-11,flutter,pawprint|2026-01,chromewebstore,turtleneck%20reminder|2026-02,chromewebstore,lunch%20hourglass&v=2)
 
 | Title | Description | Stack |
 |-------|-------------|-------|
